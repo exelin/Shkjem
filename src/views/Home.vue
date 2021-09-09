@@ -3,7 +3,7 @@
     <swiper id="swiperBox" v-bind:options="swiperOption" ref="mySwiper">
       <swiper-slide class="swiper-slide slide-one">
         <div class="page">
-          <h3>科建股份</h3>
+          <h3>万峰原</h3>
           <p>KeJian Stock</p>
         </div>
         <p class="slogan">立人立己 达人达己</p>
